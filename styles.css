@@ -1,11 +1,16 @@
-main.accio{
-	width: 150px;
-	height: 150px;
-	background-color: #000000;
+/* Style for the main element */
+main.accio {
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-p.hello-accio{
-	color: #ffffff;
-	margin-left: 32px;
-	padding: 10px;
+
+/* Style for the paragraph element with class hello-accio */
+p.hello-accio {
+    color: #ffffff;
+    margin-left: 32px;
+    padding: 10px;
 }
-/* Your CSS Code here. */
